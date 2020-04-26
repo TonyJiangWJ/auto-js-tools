@@ -1,0 +1,40 @@
+# maven ignore
+target/
+classes/
+*.jar
+*.war
+*.zip
+*.tar
+*.tar.gz
+*.class
+*.bak
+
+# eclipse ignore
+.metadata/
+.settings/
+.project
+.classpath
+.springBeans
+
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+
+# temp ignore
+logs/
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+*.swp
+
+# system ignore
+.DS_Store
+Thumbs.db
+sentrycache.data
+HelloWorld.java
+dx
+*.dex
